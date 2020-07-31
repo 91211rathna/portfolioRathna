@@ -131,7 +131,7 @@ header .nav-link{
   margin-bottom:-8px;
  }
 section.about.section{
- margin-bottom:-250px;
+ margin-bottom:-150px;
  /*background-color: red;*/
 } 
  
@@ -272,7 +272,7 @@ section.about.section{
     margin-top:10px;
     margin-bottom:15px;
     text-transform:capitalize;
-    color:#302e4d;
+    color:;
     font-family:'Noto Sans JP', sans-serif;
 }
 
